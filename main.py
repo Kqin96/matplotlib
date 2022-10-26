@@ -9,6 +9,6 @@ d=input('Dの値')
 D=int(d)
 e=input('Eの値')
 E=int(e)
-data_temps = [a, b, c, d, e]
-plt.plot(data_temps)
+data = [A, B, C, D, E]
+plt.plot(data)
 plt.show()
