@@ -1,4 +1,5 @@
 from matplotlib import pyplot as plt
+print("数値を入力")
 a=input('Aの値')
 A=int(a)
 b=input('Bの値')
@@ -9,6 +10,9 @@ d=input('Dの値')
 D=int(d)
 e=input('Eの値')
 E=int(e)
+name = input("タイトルを入力")
+print("作成完了")
 data = [A, B, C, D, E]
+plt.title(name)
 plt.plot(data)
 plt.show()
