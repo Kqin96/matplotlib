@@ -15,4 +15,5 @@ print("作成完了")
 data = [A, B, C, D, E]
 plt.title(name)
 plt.plot(data,color=color,marker="o")
+plt.grid(False)
 plt.show()
