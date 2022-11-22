@@ -6,24 +6,31 @@
 ```
 Blue
 ```
+緑
 ```
-緑 Green
+Green
 ```
+赤
 ```
-赤 Red
+Red
 ```
+シアン
 ```
-シアン Cyan
+Cyan
 ```
+マゼンタ
 ```
-マゼンタ Magenta
+Magenta
 ```
+黄
 ```
-黄 Yellow
+Yellow
 ```
+黒
 ```
-黒 Black
+Black
 ```
+白
 ```
-白 White
+White
 ```
