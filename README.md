@@ -1,3 +1,3 @@
 # data
 + matplotlibというライブラリで、与えられたデータなどからグラフを作成する
-![image](https://user-images.githubusercontent.com/97442619/184313460-ea049caf-c1c7-473b-b55a-5c8228005e27.png)
+![image](https://user-images.githubusercontent.com/97442619/203387859-3b524e30-13b1-41eb-b20e-6c9aa017919b.png)
